@@ -1,4 +1,5 @@
-Here's a comprehensive guide for installing Docker and Lando on a Linux Mint system, focusing on addressing the specific issue with docker-compose:
+# Docker x Lando x Linux guide
+## Here's a comprehensive guide for installing Docker and Lando on a Linux Mint system, focusing on addressing the specific issue with docker-compose:
 
 ### Installing Docker
 
